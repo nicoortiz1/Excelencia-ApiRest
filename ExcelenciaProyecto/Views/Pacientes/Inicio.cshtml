@@ -1,0 +1,60 @@
+﻿@model List<ExcelenciaProyecto.Models.Pacientes>
+
+@{
+    ViewBag.Title = "Inicio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row" style="margin-top:30px">
+    <div class="col-sm-12">
+        <div class="panel panel-warning">
+            <h4>Lista de Pacientes</h4>
+        </div>
+        <div class="panel-body">
+            <a href="@Url.Action("Register", "Pacientes")" class="btn btn-success">Crear nuevo</a>
+            <hr />
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Nombre</th>
+                            <th>Apellido</th>
+                            <th>Dni</th>
+                            <th>Fecha Nacimiento</th>
+                            <th>Teléfono</th>
+                            <th>Email</th>
+                            <th style="width:150px"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Nombre</td>
+                                    <td>@item.Apellido</td>
+                                    <td>@item.DNI</td>
+                                    <td>@item Fecha_nacimiento </td>
+                                    <td>@item.Telefono</td>
+                                    <td>@item.Email</td>
+                                    <td>
+                                        <a href="@Url.Action("Editar", "Pacientes", new { id = item.Id })" class="btn btn-sm btn-primary">Editar</a>
+                                        <a href="@Url.Action("Historial", "Pacientes", new { id = item.Id })" class="btn btn-sm btn-info">Historial</a>
+                                        <a href="@Url.Action("Eliminar", "Pacientes", new { id = item.Id })" class="btn btn-sm btn-danger">Eliminar</a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="6">No hay registros disponibles.</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

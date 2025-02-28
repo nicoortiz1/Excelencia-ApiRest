@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\models\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|solutionrelative:models\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|c:\\users\\nortiz\\documents\\github\\excelencia-apirest\\excelenciaproyecto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\views\\pacientes\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|solutionrelative:views\\pacientes\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\views\\pacientes\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90AEBE9A-69FD-4096-B276-83CD57F4D255}|ExcelenciaProyecto.csproj|solutionrelative:views\\pacientes\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-28T15:18:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:18:10.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pacientes.cs",
+              "DocumentMoniker": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\models\\Pacientes.cs",
+              "RelativeDocumentMoniker": "models\\Pacientes.cs",
+              "ToolTip": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\models\\Pacientes.cs",
+              "RelativeToolTip": "models\\Pacientes.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:55:02.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Views\\Pacientes\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Inicio.cshtml",
+              "ToolTip": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Views\\Pacientes\\Inicio.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Inicio.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:45:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Views\\Pacientes\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Views\\Pacientes\\Register.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T14:44:39.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:15:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nortiz\\Documents\\GitHub\\Excelencia-ApiRest\\ExcelenciaProyecto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T12:59:51.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
